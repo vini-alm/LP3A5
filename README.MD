@@ -1,9 +1,13 @@
 Repositório para a matéria de LP3A5.
 
 T1: Criação do github e do notion [X]
+
 T2: Problema do Produtor e consumidor [X]
+
 T3: Programação Concorrente [X]
+
 T4: Programação Funcional [X]
+
 T5: Optional e Exceptions [X]
 
 
